@@ -1,0 +1,54 @@
+/*div {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+
+    }
+
+    p {
+    	display: flex;
+    	justify-content: center;
+    	align-items: center;
+    	margin: 50px;
+    }
+
+    
+*/
+
+
+    css body {
+width: 100%;
+}
+
+header {
+    width: 100%;
+}
+
+button {
+    width: 100%;
+}
+
+.menu {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 12px;
+    }
+
+#hamburger {
+    float: right;
+}
+
+.links{
+    float: right;
+    }
+    
+    section {
+        margin-top: 5rem;
+    }
+
+
+ul {
+    list-style-type: none;
+}
